@@ -1,0 +1,44 @@
+body {
+    background-color: chartreuse;
+}
+
+h1 {
+    color: darkorange;
+
+}
+h2 {
+    color: deeppink;
+}
+.esimerkki {
+    color: fuchsia;
+}
+.esimerkki-box {
+        background-color: lightpink;
+        border: 1px solid;
+        padding: 5px;  
+}  
+.spanni {
+    color: red;
+}    
+table {
+   width: 300px;
+   
+    border-collapse: collapse;
+}
+        
+table tr td {
+    border: solid black; 1px;
+    marginpadding left: 5px;
+    border-spacing: 0px;
+
+}
+.jsharkkatyyli{
+    display: none;
+}
+td {
+    color: black;
+}
+js
+tbody tr:nth-child(odd) {
+    background-color: gray;
+}
